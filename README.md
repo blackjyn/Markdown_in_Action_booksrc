@@ -2,8 +2,9 @@ Markdown in Action
 ==================
 
 Source code for my book **"Markdown in Action"**.
-Books content in progress.
+Book's content in progress.
 
+Book is available at : https://leanpub.com/markdowninaction
 
 <!-- purchase the book at Leanpub -->
 <!-- purchase the book at Apple iBooks-->
